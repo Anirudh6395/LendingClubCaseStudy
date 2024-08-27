@@ -25,8 +25,7 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 ### Contributors
-- Anushka Paradkar
-- Ritesh Vesalapu
+Anirudh Naithani
 
 
 
